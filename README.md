@@ -1,5 +1,5 @@
 # Projet PII - Groupe 9
-
+Ce projet avait pour but de visualiser les résultats/statistiques du concours Mines-Telecom via une application web.
 ## Folder
 - ressources : contient des fichiers complémentaire, par exemple le schéma du modèle de données
 - web : contient le code du web
